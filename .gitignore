@@ -1,0 +1,19 @@
+# Miscellaneous
+__pycache__/
+assets
+dependencies
+
+# Build outputs
+bin/
+obj/
+dist/
+build/
+*.spec
+UEJSON/UEJSON.exe
+
+# Visual Studio files
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
